@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nombre": "Camiseta básica", "precio": 45000, "categoria": "Camisetas", "tallas": ["S", "M", "L"] },
+  { "id": 2, "nombre": "Jean clásico", "precio": 120000, "categoria": "Pantalones", "tallas": ["28", "30", "32", "34"] },
+  { "id": 3, "nombre": "Vestido floral", "precio": 150000, "categoria": "Vestidos", "tallas": ["XS", "S", "M"] }
+]
